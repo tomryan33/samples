@@ -1,4 +1,5 @@
-# File Descriptions
+# Discover Leadership Website Samples
+## File Descriptions
 * <b>form_submit.php</b>
   * This site application handles the form submitted from the various forms around the website.
 * <b>functions.php</b>
