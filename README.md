@@ -9,7 +9,7 @@ Samples of work from past and present projects.
 
 ## DNS Resolver
 * <b>Language:</b> Java
-* <b>Description:</b> A simple DNS resolver that take a DNS request, decodes it, finds the answer, rencodes, and response with the answer.
+* <b>Description:</b> A simple DNS resolver which takes a DNS request, decodes it, finds the answer, re-encodes, and response with the answer.
 
 ## HTTP Server
 * <b>Language:</b> Java
