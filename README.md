@@ -18,3 +18,11 @@ Samples of work from past and present projects.
 ## Binary Search Tree
 * <b>Language:</b> Java
 * <b>Description:</b> A simple binary search tree algorithm programmed in Java.
+
+## MSD Script
+* <b>Language:</b> C++
+* <b>Description:</b> This project allow you to run arithmetic calculation as expressions with the additional functionality such as algebraic
+find and replace (such as replace `x` with `99`), JavaScript style functions, and if-then-else statements.  The main
+purpose of this program is in the building of expressions which then can be calculated and returns a result.  An
+expression can be as simple as `5 + 10` which returns `15`, or a bit more complex such as `_if 5 + 10 == 15 _then
+50 _else 100` which would return `50`.
