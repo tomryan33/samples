@@ -6,12 +6,14 @@ Samples of work from past and present projects.
 # Table of Contents
 ## Discover Leadership Website
 * <b>Languages:</b> PHP, HTML, CSS, JavaScript, mySQL
+* <b>Services:</b> Amazon Web Services, PayPal API
 * <b>Website:</b> https://discoverleadership.com
 * <b>Description:</b> Front-end website for a self-improvment leadership company.  The website was built in PHP on an apache server, running a SQL database, and hosted on AWS.  This website includes the integration of several third-party APIs (Google, PayPal, AWS, and several others).
 
 ## Discover Leadership Mobile Application
 * <b>Language:</b> Dart
 * <b>Framework:</b> Flutter
+* <b>Services:</b> AWS Amplify, Apple TestFlight
 * <b>Description:</b> A Flutter multi-platform messaging and course enrollment application. This application utilizes AWS Amplify for cloud synchronization and Apple TestFlight for testing and App Store approval.
 
 ## DNS Resolver
